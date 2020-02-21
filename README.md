@@ -1,5 +1,5 @@
 # Advent Of Code
-My attempt at the Advent of Code challenges
+My attempt at the [Advent of Code](https://adventofcode.com) challenges
 
 # Progress
 
